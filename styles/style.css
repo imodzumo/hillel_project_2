@@ -103,9 +103,6 @@
     top: 24px;
     left: -1px;
 }
-.navigation_li:nth-child(3):hover {
-    background-color: #ffffff;
-}
 .navigation_li:hover .navigation_services_ul {
     display: block;
 }
